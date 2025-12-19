@@ -1,0 +1,8 @@
+opencv-python-headless==4.8.1.78
+numpy==1.25.2
+mediapipe==0.10.4
+scipy==1.11.3
+Pillow==10.0.1
+mysql-connector-python==8.1.1
+requests==2.31.0
+pygame==2.5.2
